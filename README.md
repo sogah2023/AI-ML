@@ -9,7 +9,7 @@ This project walks through a real-world ML workflow on **Amazon SageMaker** — 
 
 **Samuel Ogah**  
 _Principal DevSecOps, Security & AI Engineer_  
-🔗 [LinkedIn](https://www.linkedin.com/in/samuelogah)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sogah)  
 📫 [GitHub](https://github.com/sogah2023)
 
 ---
@@ -107,5 +107,5 @@ MIT License — free to use, adapt, and improve.
 ---
 
 > 📌 Want visual diagrams or Terraform templates added?  
-> ✉️ [Open an issue or contact me on LinkedIn](https://www.linkedin.com/in/samuelogah)  
+> ✉️ [Open an issue or contact me on LinkedIn](https://www.linkedin.com/in/sogah)  
 > ⭐ Star this repo to follow updates!
