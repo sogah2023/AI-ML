@@ -21,11 +21,11 @@ _Principal DevSecOps, Security & AI Engineer_
 > Includes: S3 → Data Wrangler → Training → HPO → Endpoint → Monitor → Pipelines → IAM → GuardDuty
 
 📌 **[Insert Stage-Specific Diagrams Below]**  
-- Stage 1: Data Ingestion & Cleaning [Insert Diagram]  
-- Stage 2: Model Dev with Studio/Autopilot [Insert Diagram]  
-- Stage 3: Training & HPO Infrastructure [Insert Diagram]  
-- Stage 4: Real-time & Batch Deployment Setup [Insert Diagram]  
-- Stage 5: Monitoring & SHAP Bias Flow [Insert Diagram]  
+- Stage 1: Data Ingestion & Cleaning 
+- Stage 2: Model Dev with Studio/Autopilot   
+- Stage 3: Training & HPO Infrastructure  
+- Stage 4: Real-time & Batch Deployment Setup  
+- Stage 5: Monitoring & SHAP Bias Flow
 - Stage 6: CI/CD Automation with IAM/VPC
 
 ---
@@ -105,7 +105,6 @@ Upload to S3 before launching the notebook.
 MIT License — free to use, adapt, and improve.
 
 ---
-
-> 📌 Want visual diagrams or Terraform templates added?  
+ 
 > ✉️ [Open an issue or contact me on LinkedIn](https://www.linkedin.com/in/sogah)  
 > ⭐ Star this repo to follow updates!
