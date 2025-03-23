@@ -82,7 +82,6 @@ Upload to S3 before launching the notebook.
 2. Upload the Titanic dataset to S3
 3. Open and run the Jupyter Notebook: `SageMaker_ML_Titanic_Complete.ipynb`
 4. Follow each stage — Data Prep → Dev → Train → Deploy → Monitor → Automate
-5. Insert diagrams where noted to visualize architecture
 
 ---
 
