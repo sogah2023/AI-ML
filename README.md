@@ -19,8 +19,7 @@ _Principal DevSecOps, Security & AI Engineer_
 
   
 > Includes: S3 → Data Wrangler → Training → HPO → Endpoint → Monitor → Pipelines → IAM → GuardDuty
-
-📌 **[Insert Stage-Specific Diagrams Below]**  
+ 
 - Stage 1: Data Ingestion & Cleaning 
 - Stage 2: Model Dev with Studio/Autopilot   
 - Stage 3: Training & HPO Infrastructure  
