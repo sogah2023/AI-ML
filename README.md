@@ -15,8 +15,9 @@ _Principal DevSecOps, Security & AI Engineer_
 ---
 
 ## 🖼️ Architecture Diagram
+![image](https://github.com/user-attachments/assets/8fd1bd48-36a4-4641-bb8c-1fae208713eb)
 
-📌 **[Insert Full Lifecycle Architecture Diagram Here]**  
+  
 > Includes: S3 → Data Wrangler → Training → HPO → Endpoint → Monitor → Pipelines → IAM → GuardDuty
 
 📌 **[Insert Stage-Specific Diagrams Below]**  
